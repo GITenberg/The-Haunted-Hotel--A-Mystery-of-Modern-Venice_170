@@ -1,0 +1,33 @@
+_repo: The-Haunted-Hotel--A-Mystery-of-Modern-Venice_170
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: Is there no explanation of the mystery of The Haunted Hotel? Is The Haunted
+  Hotel the tale of a haunting -- or the tale of a crime? The ghost of Lord Montberry
+  haunts the Palace Hotel in Venice -- or does it? Montberry's beautiful-yet-terrifying
+  wife, the Countess Narona, and her erstwhile brother are the center of the terror
+  that fills the Palace Hotel. Are their malefactions at the root of the haunting
+  -- or is there something darker, something much more unknowable at work?
+gutenberg_issued: '1994-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '170'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venice (Italy) -- Fiction'
+- !lcsh 'Hotels -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+- GITenberg
+title: 'The Haunted Hotel: A Mystery of Modern Venice'
+url: http://www.gutenberg.org/ebooks/170
